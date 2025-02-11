@@ -1,19 +1,10 @@
 body{
     justify-items: center;
     font-family: 'Jesaya Free', sans-serif;
-    position: relative;  
-    background-attachment: fixed;    
-    overflow: hidden;              
-    min-height: 100vh;                  
+    background: linear-gradient(rgb(3, 3, 41), rgb(35, 2, 57));
+    background-attachment: fixed;                     
 }
-.mms{
-    position: absolute;
-    top: 0;
-    z-index: -1;
-    left: 0;
-    min-width: 100%;
-    min-height: 100%;
-}
+
 img{
     width: auto;
     height: 200px;
